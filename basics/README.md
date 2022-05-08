@@ -1,3 +1,3 @@
-# TypeScript Playground
+# Basics
 
-Working with TypeScript and a couple of other stuffs here
+Learning about the basics of TypeScript; types, interfaces, modules and TSConfig file
